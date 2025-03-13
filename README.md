@@ -21,6 +21,10 @@
 
 ###
 
+---
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/liam_blake001?igsh=MWdrd2R3ODJtazhkOA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -32,6 +36,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+---
 
 ###
 
@@ -48,6 +56,10 @@
   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
 </div>
+
+###
+
+---
 
 ###
 
