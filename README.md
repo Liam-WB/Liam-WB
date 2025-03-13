@@ -14,17 +14,17 @@
 
 ###
 
-<table border="0" width="100%" style="border-collapse: collapse; border: none; padding: 0; margin: 0; background: none;">
-  <tr>
-    <td width="50%" align="left" style="border: none; padding: 0; margin: 0; background: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" width="100%" alt="stats graph" /> <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" width="100%" alt="languages graph" />
-    </td>
-    <td width="50%" align="right" style="border: none; padding: 0; margin: 0; background: none;">
-      <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" width="100%" alt="coding"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="width: 50%; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" width="100%" alt="stats graph" /> 
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" width="100%" alt="languages graph" />
+  </div>
+  
+  <div style="width: 50%; text-align: right;">
+    <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" width="100%" alt="coding"/>
+  </div>
+</div>
 
 ###
 
