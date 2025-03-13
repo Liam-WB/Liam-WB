@@ -34,9 +34,7 @@
 - 🔗 **LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
 - 🔗 **Portfolio : https://lwb-portfolio.vercel.app/
 
----
-
-## Summary
+### Summary
 
 I am a Full Stack Software Developer and alumnus of Code Institute. My skillset spans a range of technologies including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive and scalable web applications, delivering efficient and concise user experiences, and create visually appealing interfaces. My development skills are complemented by a solid understanding of sales and marketing.
 
