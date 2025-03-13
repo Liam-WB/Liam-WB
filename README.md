@@ -63,10 +63,12 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
+<div align="center">
+  <img align="left" src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
 
-###
+  ###
 
-<img align="left" height="90" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
+  <img align="left" height="90" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
+</div>
 
 ###
