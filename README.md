@@ -14,13 +14,13 @@
 
 ###
 
-<table id="toc" border="0" bgcolor="transparent" width="100%">
+<table border="0" width="100%" bgcolor="transparent">
   <tr>
-    <td bgcolor="transparent" width="50%" align="left">
+    <td width="50%" align="left" bgcolor="transparent">
       <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" width="100%" alt="stats graph" /> <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" width="100%" alt="languages graph"  />
     </td>
-    <td bgcolor="transparent" width="50%" align="right">
+    <td width="50%" align="right" bgcolor="transparent">
       <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" width="100%" alt="coding"/>
     </td>
   </tr>
