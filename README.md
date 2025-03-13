@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" height="134" alt="languages graph"  />
 </div>
 <div align="right">
-  <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif"/>
+  <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" height="162" alt="coding"/>
 </div>
 
 ###
