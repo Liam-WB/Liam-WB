@@ -39,16 +39,14 @@
 
 ###
 
-<h3 align="left">Travellers rested:</h3>
+<h3 align="left">Travellers Rested:</h3>
 
 ###
 
-<img align="left" height="68" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
+<img align="left" height="90" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
 
 ###
