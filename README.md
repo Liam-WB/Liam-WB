@@ -25,25 +25,6 @@
 
 ###
 
-👋 Hi, I'm [@Liam-WB!](https://github.com/tomik-z-cech)
-
-- 💻 **Role : Full Stack Software Developer
-- 🎓 **Education : Alumnus of Code Institute
-- 📧 **Email : [liamwartnerblake@gmail.com](mailto:liamwartnerblake@gmail.com)
-- 📞 **Phone : +44 7884 966 071
-- 🔗 **LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
-- 🔗 **Portfolio : https://lwb-portfolio.vercel.app/
-
-### Summary
-
-I am a Full Stack Software Developer and alumnus of Code Institute. My skillset spans a range of technologies including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive and scalable web applications, delivering efficient and concise user experiences, and create visually appealing interfaces. My development skills are complemented by a solid understanding of sales and marketing.
-
-###
-
----
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/liam_blake001?igsh=MWdrd2R3ODJtazhkOA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -55,12 +36,6 @@ I am a Full Stack Software Developer and alumnus of Code Institute. My skillset 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
----
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
@@ -75,6 +50,26 @@ I am a Full Stack Software Developer and alumnus of Code Institute. My skillset 
   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
 </div>
+
+###
+
+---
+
+###
+
+👋 Hi, I'm [@Liam-WB!](https://github.com/tomik-z-cech)
+
+- 💻 **Role : Full Stack Software Developer
+- 🎓 **Education : Alumnus of Code Institute
+- 📧 **Email : [liamwartnerblake@gmail.com](mailto:liamwartnerblake@gmail.com)
+- 📞 **Phone : +44 7884 966 071
+- 🔗 **LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
+- 🔗 **Portfolio : https://lwb-portfolio.vercel.app/
+
+### Summary
+
+I am a Full Stack Software Developer and alumnus of Code Institute. My skillset spans a range of technologies including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive and scalable web applications, delivering efficient and concise user experiences, and create visually appealing interfaces. My development skills are complemented by a solid understanding of sales and marketing.
+
 
 ###
 
