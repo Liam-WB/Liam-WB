@@ -14,7 +14,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" style="width: 100%;" alt="stats graph" /> 
     <br>
@@ -22,7 +22,7 @@
   </div>
   
   <div style="flex: 1; text-align: right;">
-    <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" style="width: 100%;" alt="coding"/>
+    <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" alt="coding"/>
   </div>
 </div>
 
