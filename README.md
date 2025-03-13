@@ -1,9 +1,9 @@
 ###
 
-<div id="toc"> <!-- both work, toc or user-content-toc -->
+<div align="center" id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
     <summary>
-      <h1 align="center"><b> Welcome! </b></>
+      <h1><b> Welcome! </b></>
     </summary>
   </ul>
 </div>
