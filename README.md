@@ -37,6 +37,8 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
   <img width="29" />
@@ -59,12 +61,12 @@
 
 👋 Hi, I'm [@Liam-WB!](https://github.com/tomik-z-cech)
 
-- 💻 **Role : Full Stack Software Developer
-- 🎓 **Education : Alumnus of Code Institute
-- 📧 **Email : [liamwartnerblake@gmail.com](mailto:liamwartnerblake@gmail.com)
-- 📞 **Phone : +44 7884 966 071
-- 🔗 **LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
-- 🔗 **Portfolio : https://lwb-portfolio.vercel.app/
+- 💻 Role : Full Stack Software Developer
+- 🎓 Education : Alumnus of Code Institute
+- 📧 Email : [liamwartnerblake@gmail.com](mailto:liamwartnerblake@gmail.com)
+- 📞 Phone : +44 7884 966 071
+- 🔗 LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
+- 🔗 Portfolio : https://lwb-portfolio.vercel.app/
 
 ### Summary
 
