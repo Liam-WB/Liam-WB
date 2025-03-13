@@ -14,18 +14,18 @@
 
 ###
 
-👋 Hi, I'm @Liam-WB!
+👋 Hi, I'm [@Liam-WB!](https://github.com/tomik-z-cech)
 
-1. 💻 Role : Full Stack Software Developer
-2. 🎓 Education : Alumnus of Code Institute
-3. 📧 Email : liamwartnerblake@gmail.com
-4. 📞 Phone : +44 7884 966 071
-5. 🔗 LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
-6. 🔗 Portfolio : https://lwb-portfolio.vercel.app/
+- 💻 **Role : Full Stack Software Developer
+- 🎓 **Education : Alumnus of Code Institute
+- 📧 **Email : [liamwartnerblake@gmail.com](mailto:liamwartnerblake@gmail.com)
+- 📞 **Phone : +44 7884 966 071
+- 🔗 **LinkedIn : https://www.linkedin.com/in/liam-blake-985239225/
+- 🔗 **Portfolio : https://lwb-portfolio.vercel.app/
 
 ---
 
-<h5>Summary</h5>
+## Summary
 
 I am a Full Stack Software Developer and alumnus of Code Institute. My skillset spans a range of technologies including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive and scalable web applications, delivering efficient and concise user experiences, and create visually appealing interfaces. My development skills are complemented by a solid understanding of sales and marketing.
 
