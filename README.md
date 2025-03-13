@@ -15,13 +15,13 @@
 ###
 
 <div width="100%">
-  <div width="50%" align="left">
+  <div id="left" width="50%" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats"  alt="stats graph" /> 
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" alt="languages graph" />
   </div>
 
-  <div width="50%" align="right">
+  <div id="right" width="50%" align="right">
     <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" alt="coding"/>
   </div>
 </div>
