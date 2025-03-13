@@ -14,6 +14,17 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" height="162" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" height="134" alt="languages graph"  />
+</div>
+
+###
+
+---
+
+###
+
 👋 Hi, I'm [@Liam-WB!](https://github.com/tomik-z-cech)
 
 - 💻 **Role : Full Stack Software Developer
@@ -28,17 +39,6 @@
 ## Summary
 
 I am a Full Stack Software Developer and alumnus of Code Institute. My skillset spans a range of technologies including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive and scalable web applications, delivering efficient and concise user experiences, and create visually appealing interfaces. My development skills are complemented by a solid understanding of sales and marketing.
-
-###
-
----
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" height="162" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" height="134" alt="languages graph"  />
-</div>
 
 ###
 
