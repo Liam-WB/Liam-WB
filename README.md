@@ -14,15 +14,17 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" style="width: 100%;" alt="stats graph" /> 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
+  <!-- Left Section -->
+  <div style="flex: 1; min-width: 200px; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Liam-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&custom_title=My%20GitHub%20stats" style="width: 100%; height: auto;" alt="stats graph" /> 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" style="width: 100%;" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam-WB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=true" style="width: 100%; height: auto;" alt="languages graph" />
   </div>
   
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" alt="coding"/>
+  <!-- Right Section -->
+  <div style="flex: 1; min-width: 200px; text-align: right;">
+    <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAd/bocchi-bocchi-the-rock.gif" style="width: 100%; height: auto;" alt="coding"/>
   </div>
 </div>
 
