@@ -63,10 +63,10 @@
 
 ###
 
-<div float="left">
+<div align="left">
   <p align="center">
-    <img height="60" src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
-    <img height="60" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
+    <img height="40" src="https://profile-counter.glitch.me/Liam-WB/count.svg?"  />
+    <img height="80" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
   </p>
 </div>
 
