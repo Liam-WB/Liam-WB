@@ -4,7 +4,7 @@
   <ul style="list-style: none;">
     <summary>
       <h1><b> Welcome! </b></>
-      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79D24&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
     </summary>
   </ul>
 </div>
