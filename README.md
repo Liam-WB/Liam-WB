@@ -13,7 +13,7 @@
 ## Welcome!
 
 
-I'm a software developer with a background in full-stack development and a growing interest in data engineering and analytics. I enjoy building practical projects, solving problems, and learning how different technologies fit together. I'm currently developing my skills in Python, SQL, and data analytics through hands-on projects, while continuing to explore new areas of software development!
+I'm a software developer with a background in full-stack development and an interest in data engineering, analytics and building practical software solutions. I enjoy working across the development stack, from designing databases and developing backend services to building frontend applications. I'm currently expanding my experience with Python, SQL and data engineering through hands-on projects.
 
 
 ---
