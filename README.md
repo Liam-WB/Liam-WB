@@ -83,14 +83,21 @@ I'm a software developer with a background in full-stack development and an inte
       <a href="https://github.com/Liam-WB/ecommerce-analytics-pipeline">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Liam-WB/filmfeed">Filmfeed</a></h3>
+      <h3><a href="https://github.com/Liam-WB/filmfeed">Filmfeed – Frontend</a></h3>
       <p>A movie-focused social platform where users can share posts, discuss films, follow other users and discover movies.</p>
       <sub>JavaScript · React · HTML · CSS · Bootstrap</sub>
       <br />
-      <a href="https://github.com/Liam-WB/filmfeed">View Repository →</a>
+      <a href="https://github.com/Liam-WB/filmfeed">View Frontend Repository →</a>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Liam-WB/filmfeed-api">Filmfeed API – Backend</a></h3>
+      <p>The REST API powering Filmfeed, handling backend functionality, data management, authentication and communication with the frontend.</p>
+      <sub>Python · Django · Django REST Framework · PostgreSQL</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/filmfeed-api">View Backend Repository →</a>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Liam-WB/DjangoTraveluxe2">Traveluxe</a></h3>
       <p>A property rental platform where users can list, browse and book vacation homes, alongside social features and user interactions.</p>
@@ -98,6 +105,8 @@ I'm a software developer with a background in full-stack development and an inte
       <br />
       <a href="https://github.com/Liam-WB/DjangoTraveluxe2">View Repository →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Liam-WB/lwb-portfolio">Personal Portfolio</a></h3>
       <p>A responsive portfolio website showcasing my projects, technical skills and professional background.</p>
@@ -105,9 +114,7 @@ I'm a software developer with a background in full-stack development and an inte
       <br />
       <a href="https://github.com/Liam-WB/lwb-portfolio">View Repository →</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Liam-WB/hackathon-may-2024-team-9">Mindwars – Hackathon Project</a></h3>
       <p>A team-developed, Star Wars-inspired interactive trivia game featuring character abilities, multiple difficulty levels and a competitive leaderboard.</p>
       <sub>Python · Django · JavaScript · HTML · CSS</sub>
