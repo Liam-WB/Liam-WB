@@ -71,34 +71,55 @@ I'm a software developer with a background in full-stack development and a growi
 
 ---
 
-## Featured Projects:
+## Featured Projects
 
-### E-commerce Analytics Pipeline
-
-**Python | PostgreSQL | Docker | SQL**
-
-An ongoing data engineering project focused on building an end-to-end e-commerce data pipeline.
-
-- Synthetic e-commerce data generation.
-- PostgreSQL database design and management.
-- Data loading, validation, and integrity testing.
-- ETL processes and data cleaning.
-
-[View Repository](https://github.com/Liam-WB/ecommerce-analytics-pipeline)
-
-### Full-Stack Development Projects
-
-**Python | Django | JavaScript | React | PostgreSQL**
-
-A collection of full-stack development projects demonstrating experience in backend development, database integration, API development, and responsive frontend applications.
-
-[Explore My GitHub Repositories](https://github.com/Liam-WB?tab=repositories)
-
-
-## Travellers Rested
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Liam-WB/ecommerce-analytics-pipeline">E-commerce Analytics Pipeline</a></h3>
+      <p>An end-to-end data engineering project focused on generating, loading, validating and transforming e-commerce data.</p>
+      <sub>Python · PostgreSQL · SQL · Docker</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/ecommerce-analytics-pipeline">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Liam-WB/filmfeed">Filmfeed</a></h3>
+      <p>A movie-focused social platform where users can share posts, discuss films, follow other users and discover movies.</p>
+      <sub>JavaScript · React · HTML · CSS · Bootstrap</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/filmfeed">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Liam-WB/DjangoTraveluxe2">Traveluxe</a></h3>
+      <p>A property rental platform where users can list, browse and book vacation homes, alongside social features and user interactions.</p>
+      <sub>Python · Django · JavaScript · PostgreSQL · Bootstrap</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/DjangoTraveluxe2">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Liam-WB/lwb-portfolio">Personal Portfolio</a></h3>
+      <p>A responsive portfolio website showcasing my projects, technical skills and professional background.</p>
+      <sub>JavaScript · React · Vite · Tailwind CSS</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/lwb-portfolio">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3><a href="https://github.com/Liam-WB/hackathon-may-2024-team-9">Mindwars – Hackathon Project</a></h3>
+      <p>A team-developed, Star Wars-inspired interactive trivia game featuring character abilities, multiple difficulty levels and a competitive leaderboard.</p>
+      <sub>Python · Django · JavaScript · HTML · CSS</sub>
+      <br />
+      <a href="https://github.com/Liam-WB/hackathon-may-2024-team-9">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
+  <p align="middle">Travellers rested:<p/>
   <img height="55" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="Dark Souls bonfire" align="middle" />
   <img src="https://komarev.com/ghpvc/?username=Liam-WB&label=&color=0d1117&style=flat-square" alt="Profile views" align="middle" />
 </div>
